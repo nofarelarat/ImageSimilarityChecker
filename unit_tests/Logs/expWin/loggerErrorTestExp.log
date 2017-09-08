@@ -1,0 +1,4 @@
+---ERROR---
+- file: sp_logger_unit_test.c
+- function: basicLoggerErrorTest
+- line: 60- message: MSGA
